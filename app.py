@@ -4,10 +4,10 @@ from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
 print("Escriba la ecuación diferencial")
-expression=input()
+expression=input("dydt=")
 
-print("escriba la condicion inicial y0")
-y0=input()
+print("escriba la condicion inicial")
+y0=input("y0=")
 
 def returns_dydt(y,t):
     dydt = eval(expression)
