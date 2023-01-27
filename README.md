@@ -20,5 +20,5 @@ $$\dddot{x_2}= -\ddot{x_1}^3 + \dot{x_2} + x_1 + \sin(t)$$
 $$\dddot{x_1}= -2\dot{x_2}^2 + x_2$$
 con todas las condiciones iniciales en cero.
 
-## Ejemplo 4: tcpip.py [https://github.com/Hamgalex/grafica_ecdif/blob/master/tcpip.py] 
+## Ejemplo 5: tcpip.py [https://github.com/Hamgalex/grafica_ecdif/blob/master/tcpip.py] 
 Ejemplo del modelo TCP IP página 17 de control de sistemas no lineales editorial pearson
